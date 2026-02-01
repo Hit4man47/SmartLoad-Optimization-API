@@ -1,0 +1,31 @@
+{
+  "truck": {
+    "id": "truck-perf-test",
+    "max_weight_lbs": 44000,
+    "max_volume_cuft": 3000
+  },
+  "orders": [
+    {"id": "ord-01", "payout_cents": 150000, "weight_lbs": 2000, "volume_cuft": 150, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-02", "payout_cents": 180000, "weight_lbs": 2500, "volume_cuft": 180, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-03", "payout_cents": 120000, "weight_lbs": 1800, "volume_cuft": 120, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-04", "payout_cents": 200000, "weight_lbs": 3000, "volume_cuft": 200, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-03", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-05", "payout_cents": 160000, "weight_lbs": 2200, "volume_cuft": 160, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-06", "payout_cents": 140000, "weight_lbs": 1900, "volume_cuft": 140, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-07", "payout_cents": 190000, "weight_lbs": 2800, "volume_cuft": 190, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-08", "payout_cents": 170000, "weight_lbs": 2400, "volume_cuft": 170, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-03", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-09", "payout_cents": 130000, "weight_lbs": 1700, "volume_cuft": 130, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-10", "payout_cents": 210000, "weight_lbs": 3100, "volume_cuft": 210, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-11", "payout_cents": 155000, "weight_lbs": 2100, "volume_cuft": 155, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-12", "payout_cents": 185000, "weight_lbs": 2600, "volume_cuft": 185, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-03", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-13", "payout_cents": 125000, "weight_lbs": 1600, "volume_cuft": 125, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-14", "payout_cents": 195000, "weight_lbs": 2900, "volume_cuft": 195, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-15", "payout_cents": 165000, "weight_lbs": 2300, "volume_cuft": 165, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-16", "payout_cents": 145000, "weight_lbs": 2000, "volume_cuft": 145, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-03", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-17", "payout_cents": 175000, "weight_lbs": 2500, "volume_cuft": 175, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-18", "payout_cents": 135000, "weight_lbs": 1800, "volume_cuft": 135, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-19", "payout_cents": 205000, "weight_lbs": 3000, "volume_cuft": 205, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-20", "payout_cents": 115000, "weight_lbs": 1500, "volume_cuft": 115, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-03", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-21", "payout_cents": 225000, "weight_lbs": 3200, "volume_cuft": 220, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-01", "delivery_date": "2025-12-10", "is_hazmat": false},
+    {"id": "ord-22", "payout_cents": 110000, "weight_lbs": 1400, "volume_cuft": 110, "origin": "LA", "destination": "TX", "pickup_date": "2025-12-02", "delivery_date": "2025-12-10", "is_hazmat": false}
+  ]
+}
